@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(uv --version)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"c:\\\\Users\\\\khala\\\\MyDocuments\\\\00_DS\\\\000_Projects_DS_Git\\\\llm_resume_screening\\\\assets\")",
+      "Read(//c/Users/khala/MyDocuments/00_DS/000_Projects_DS_Git/**)",
+      "PowerShell(Get-ChildItem \"c:\\\\Users\\\\khala\\\\MyDocuments\\\\00_DS\\\\000_Projects_DS_Git\\\\llm_resume_screening\" -Depth 1 | Where-Object { $_.Name -ne \".venv\" } | Select-Object FullName, PSIsContainer | Sort-Object PSIsContainer -Descending)",
+      "PowerShell(Get-Command gh -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-ChildItem \"C:\\\\Program Files\\\\GitHub CLI\", \"C:\\\\Program Files \\(x86\\)\\\\GitHub CLI\", \"$env:LOCALAPPDATA\\\\Programs\\\\GitHub CLI\", \"$env:LOCALAPPDATA\\\\GitHubDesktop\" -ErrorAction SilentlyContinue | Select-Object FullName)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\khala\\.claude\\skills"
+    ]
+  }
+}
