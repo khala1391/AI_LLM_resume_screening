@@ -86,6 +86,8 @@ Engineer job description.
 - PyPDF2, python-docx — file parsing
 - Deployed on [Streamlit Community Cloud](https://streamlit.io/cloud)
 
+---
+
 ## Author
 
-👤 [Yuttapong M.](https://www.linkedin.com/in/yuttapong-m/)
+Yuttapong M. — [linkedin.com/in/yuttapong-m](https://www.linkedin.com/in/yuttapong-m/)
