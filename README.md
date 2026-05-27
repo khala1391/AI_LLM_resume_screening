@@ -14,7 +14,7 @@ and score charts.
 
 ## Live Demo
 
-> 🚀 *(Streamlit Community Cloud link — add after deploy)*
+> 🚀 *[live Demo](https://zqrhrmtmjwgaatdbmzkjxt.streamlit.app/)*
 
 ## Features
 
@@ -30,7 +30,7 @@ and score charts.
 ## Project Structure
 
 ```
-llm_resume_screening/
+AI_LLM_resume_screening/
 ├── app.py                  # Streamlit entrypoint
 ├── configs/config.yaml     # model names, thresholds
 ├── src/
