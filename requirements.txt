@@ -1,5 +1,8 @@
 # Resume Screening System dependencies
 
+# Web app
+streamlit
+
 # File parsing
 pypdf2
 python-docx
@@ -7,7 +10,8 @@ python-docx
 # NER
 spacy
 click  # required by spacy CLI
-# After install, run: python -m spacy download en_core_web_sm
+# spaCy model — installed as wheel (required for Streamlit Cloud)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 
 # Embeddings & similarity
 sentence-transformers
@@ -15,4 +19,5 @@ sentence-transformers
 # Utilities
 pyyaml
 pandas
+matplotlib
 tqdm
