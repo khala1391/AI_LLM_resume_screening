@@ -1,0 +1,25 @@
+James Okonkwo
+Email: james.okonkwo@email.com | Location: Lagos, Nigeria
+
+SUMMARY
+Data Science Team Lead with 6 years of experience building ML solutions
+in fintech. Strong background in Python, NLP, and risk modelling.
+
+SKILLS
+Python, scikit-learn, TensorFlow, NLTK, spaCy, SQL, PostgreSQL,
+Docker, Git, Flask, Celery, Redis, Pandas, NumPy, Tableau
+
+EXPERIENCE
+Data Science Team Lead — Flutterwave, 2021–Present
+- Led team of 5 data scientists delivering fraud detection and credit scoring models
+- Built NLP pipeline for customer complaint classification using spaCy and BERT
+- Reduced false positive rate in fraud detection by 25%
+
+Data Scientist — Interswitch, 2018–2021
+- Developed transaction anomaly detection using Isolation Forest
+- Created customer churn prediction model with 87% recall
+- Presented insights to C-suite using Tableau dashboards
+
+EDUCATION
+M.Sc. Data Science — University of Cape Town, 2018
+B.Sc. Computer Science — University of Lagos, 2016

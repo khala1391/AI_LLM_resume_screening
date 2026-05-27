@@ -1,0 +1,24 @@
+Alice Chen
+Email: alice.chen@email.com | Location: Bangkok, Thailand
+
+SUMMARY
+Senior Data Scientist with 6 years of experience in machine learning and NLP.
+Passionate about building end-to-end AI pipelines.
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, spaCy,
+SQL, Docker, Git, FastAPI, Pandas, NumPy, Matplotlib
+
+EXPERIENCE
+Senior Data Scientist — Google, 2021–Present
+- Built NLP models for document classification achieving 94% accuracy
+- Designed ML pipelines using Python and Airflow
+- Led a team of 4 engineers on a recommendation system project
+
+Data Scientist — Grab, 2018–2021
+- Developed fraud detection model using XGBoost and LightGBM
+- Created ETL pipelines with PySpark and SQL
+
+EDUCATION
+M.Sc. Computer Science (Machine Learning) — Chulalongkorn University, 2018
+B.Sc. Statistics — Kasetsart University, 2016

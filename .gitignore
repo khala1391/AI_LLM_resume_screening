@@ -1,0 +1,56 @@
+# ── Virtual environment ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Secrets / credentials ─────────────────────────────────────────────────────
+.env
+.env.local
+*.key
+credentials.json
+.streamlit/secrets.toml
+
+# ── Data (raw uploads may contain PII — do not commit) ───────────────────────
+data/raw/*.pdf
+data/raw/*.docx
+data/raw/*.csv
+data/interim/
+data/processed/
+# sample .txt files in data/raw/ are committed (synthetic demo data)
+
+# ── ML model artifacts (large files) ─────────────────────────────────────────
+models/
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+*.pt
+*.bin
+
+# ── Outputs / logs ────────────────────────────────────────────────────────────
+outputs/
+logs/
+*.log
+
+# ── uv ────────────────────────────────────────────────────────────────────────
+.uv/

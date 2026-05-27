@@ -1,0 +1,28 @@
+Job Title: Senior Data Scientist / NLP Engineer
+
+Company: TechCorp AI
+
+About the Role:
+We are looking for a Senior Data Scientist with strong NLP expertise to join
+our AI team. You will build and deploy machine learning models that process
+and understand human language at scale.
+
+Responsibilities:
+- Design and implement NLP pipelines for text classification, NER, and
+  information extraction
+- Fine-tune and deploy large language models (BERT, GPT) for production use
+- Build end-to-end ML pipelines from data ingestion to model serving
+- Collaborate with product and engineering teams
+
+Requirements:
+- 4+ years of experience in data science or machine learning
+- Strong Python skills (PyTorch, scikit-learn, Hugging Face Transformers)
+- Experience with NLP techniques: NER, text classification, sentence embeddings
+- Familiarity with spaCy, NLTK, or similar NLP libraries
+- Experience deploying models with Docker and cloud platforms (AWS/GCP)
+- Solid understanding of statistics and machine learning fundamentals
+
+Nice to Have:
+- Experience with LLMs, RAG, or LangChain
+- Publications or open-source contributions in NLP
+- Experience with MLflow or similar MLOps tools

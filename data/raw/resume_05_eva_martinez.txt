@@ -1,0 +1,25 @@
+Eva Martinez
+Email: eva.martinez@email.com | Location: Madrid, Spain
+
+SUMMARY
+NLP Research Scientist with 5 years of experience in academia and industry.
+Specialised in large language models, text generation, and information extraction.
+
+SKILLS
+Python, Hugging Face Transformers, spaCy, NLTK, PyTorch, BERT, GPT,
+RAG, LangChain, FastAPI, Docker, Git, LaTeX, SQL
+
+EXPERIENCE
+NLP Research Scientist — Telefonica AI, 2022–Present
+- Fine-tuned BERT and GPT models for Spanish NER and text classification
+- Built RAG pipeline using LangChain and FAISS vector store
+- Published 2 papers at ACL and EMNLP conferences
+
+NLP Engineer — Indra, 2019–2022
+- Developed chatbot using Rasa and spaCy
+- Created named entity recognition pipeline for legal documents
+- Implemented sentence similarity using sentence-transformers
+
+EDUCATION
+Ph.D. Computational Linguistics — Universidad Autónoma de Madrid, 2019
+M.Sc. Artificial Intelligence — Universidad Politécnica de Madrid, 2015

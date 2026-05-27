@@ -1,0 +1,22 @@
+Bob Smith
+Email: bob.smith@email.com | Location: London, UK
+
+SUMMARY
+Junior Python Developer with 1.5 years of experience.
+Interested in transitioning into data science and machine learning.
+
+SKILLS
+Python, Pandas, NumPy, matplotlib, basic scikit-learn, SQL, Git, Excel
+
+EXPERIENCE
+Junior Software Developer — StartupXYZ, 2023–Present
+- Built REST APIs using Flask and Python
+- Maintained MySQL databases and wrote SQL queries
+- Automated reporting tasks with Python scripts
+
+Intern — TechCorp, 2022
+- Assisted in data cleaning using Pandas
+- Wrote unit tests in Python
+
+EDUCATION
+B.Sc. Information Technology — University of Manchester, 2022

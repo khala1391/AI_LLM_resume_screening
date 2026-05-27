@@ -1,0 +1,24 @@
+David Wilson
+Email: david.wilson@email.com | Location: New York, USA
+
+SUMMARY
+Experienced Financial Analyst with 8 years in investment banking.
+Strong quantitative background with Excel modelling and VBA.
+
+SKILLS
+Excel, VBA, Bloomberg Terminal, SQL, PowerPoint, Financial Modelling,
+Valuation, DCF Analysis, R (basic)
+
+EXPERIENCE
+Senior Financial Analyst — JPMorgan Chase, 2019–Present
+- Built complex financial models in Excel for M&A deal analysis
+- Prepared valuation reports using DCF and comparable companies analysis
+- Managed data extraction from Bloomberg using SQL
+
+Financial Analyst — Goldman Sachs, 2016–2019
+- Supported equity research team with quantitative analysis
+- Automated reporting workflows using VBA macros
+
+EDUCATION
+MBA — Columbia Business School, 2016
+B.Sc. Economics — Cornell University, 2014

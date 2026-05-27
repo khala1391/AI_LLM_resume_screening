@@ -1,0 +1,10 @@
+ner:
+  spacy_model: "en_core_web_sm"       # Layer 1: general entities
+  hf_skills_model: "algiraldohe/lm-ner-linkedin-skills-recognition"  # Layer 2: skills
+
+matching:
+  embedding_model: "all-MiniLM-L6-v2"
+  similarity_threshold: 0.0           # minimum score to include in results
+
+output:
+  top_n: 10                           # max candidates to show in ranking

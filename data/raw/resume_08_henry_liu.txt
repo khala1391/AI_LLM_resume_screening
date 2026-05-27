@@ -1,0 +1,26 @@
+Henry Liu
+Email: henry.liu@email.com | Location: Toronto, Canada
+
+SUMMARY
+AI/ML Engineer with 7 years of experience building production machine learning
+systems. Expert in Python, MLOps, and cloud infrastructure.
+
+SKILLS
+Python, scikit-learn, XGBoost, LightGBM, PyTorch, Keras, SQL,
+Spark, Kafka, Airflow, Kubernetes, Docker, AWS, GCP, MLflow,
+Terraform, Prometheus, Grafana
+
+EXPERIENCE
+Senior ML Engineer — Shopify, 2020–Present
+- Architected real-time ML serving platform handling 50K requests/sec
+- Built automated retraining pipelines with Airflow and MLflow
+- Led migration of ML workloads to GCP Vertex AI
+
+ML Engineer — RBC (Royal Bank of Canada), 2017–2020
+- Developed credit risk scoring models using XGBoost
+- Implemented feature store using Spark and Delta Lake
+- Reduced model deployment time from 2 weeks to 2 hours
+
+EDUCATION
+M.Sc. Computer Science (Machine Learning) — University of Toronto, 2017
+B.Sc. Mathematics — McGill University, 2015

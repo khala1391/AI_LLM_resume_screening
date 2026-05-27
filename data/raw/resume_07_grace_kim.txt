@@ -1,0 +1,23 @@
+Grace Kim
+Email: grace.kim@email.com | Location: Seoul, South Korea
+
+SUMMARY
+Data Analyst with 3 years of experience turning data into actionable insights.
+Proficient in Python and SQL with a focus on business intelligence.
+
+SKILLS
+Python, Pandas, NumPy, SQL, Tableau, Power BI, Excel, Looker,
+scikit-learn (basic), A/B testing, Statistics, Git
+
+EXPERIENCE
+Data Analyst — Kakao, 2022–Present
+- Designed dashboards in Tableau tracking KPIs for 3M+ users
+- Performed cohort analysis and A/B tests to optimise user retention
+- Wrote complex SQL queries against BigQuery data warehouse
+
+Junior Data Analyst — LG Electronics, 2021–2022
+- Cleaned and transformed sales data using Pandas
+- Automated weekly Excel reports using Python scripts
+
+EDUCATION
+B.Sc. Applied Statistics — Seoul National University, 2021

@@ -1,0 +1,18 @@
+# Resume Screening System dependencies
+
+# File parsing
+pypdf2
+python-docx
+
+# NER
+spacy
+click  # required by spacy CLI
+# After install, run: python -m spacy download en_core_web_sm
+
+# Embeddings & similarity
+sentence-transformers
+
+# Utilities
+pyyaml
+pandas
+tqdm
